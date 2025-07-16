@@ -1,7 +1,7 @@
 # About Me 👋
 
-- 🔭 I’m currently working on ... *A career change into IT. Currently in 2nd year of a 2 year college course*
-- 🌱 I’m currently learning ... *BTEC Level 3 in Information Technology*
-- 📫 How to reach me: ... *Email or phone*
+- 🔭 I’m currently working on ... *Job searching as part of a career switch to IT. *
+- 🌱 I’m currently learning ... *Vue.js. Git. GitHub. C#. Python.*
+- 📫 How to reach me: ... email: s.cormican7@icloud.com
 - ⚡ Fun fact: ... *Skater* 🛹 *and musician* 🎸
 

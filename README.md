@@ -1,7 +1,6 @@
 # About Me 👋
 
-- 🔭 I’m currently working on ... *Job searching as part of a career switch to IT.* 
-- 🌱 I’m currently learning ... *Vue.js. Git. GitHub. C#. Python.*
+- 🔭 I’m currently working on ... *A few small Python projects while searching for apprenticeships as part of a career switch into IT.* 
+- 🌱 I’m currently learning ... *Python. Mathematics for Computer Scientists. Git. GitHub.*
 - 📫 How to reach me: ... *📧: s.cormican7@icloud.com*
-- ⚡ Fun fact: ... *Skater* 🛹 *and musician* 🎸
-
+- ⚡ Fun fact: ... *Musician* 🎸 *Skater* 🛹 
